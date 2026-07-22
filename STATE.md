@@ -1,9 +1,9 @@
 STATE
-phase: 1
+phase: 2
 mode: nf
 leaf-unit: section
 style-scope: global
-last-gate-passed: expand epilogue approved
-next-action: normalized-outline assembly and approval
+last-gate-passed: normalized-outline approved (phase1-complete)
+next-action: constraints v0 proposal
 constraints-version: none
-units-accepted: 0/tbd
+units-accepted: 0/60
