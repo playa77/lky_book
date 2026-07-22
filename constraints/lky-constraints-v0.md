@@ -1,4 +1,4 @@
-CONSTRAINTS v0 | mode: nf | units folded: none | lines: 52
+CONSTRAINTS v0 | mode: nf | units folded: none | lines: 53
 LEG tier O>S<n>>I · flags x=retired ?=open !=decided @=asserted-at +=introduced ==discharged #=uses-left
 LEG sym →cause ≠forbid <before >after ~approx ∅empty //contrast ⊂under ∵because
 
@@ -61,4 +61,5 @@ A6 + reader promise: personal application to individual life (discharged S52-S57
 
 F1 "miracle" // "method" frame +S3; payoff: book's persistent distinction [O] #∞
 
-P1 ? Shenzhen vs. Chongqing vs. NEOM as S1 opening location? due≤S1 [O]
+W13 S1 opening location: Shenzhen; skyline of Shenzhen CBD [O]
+P1 x Shenzhen chosen for S1 opening [O]
