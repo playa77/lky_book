@@ -3,7 +3,7 @@ phase: 2
 mode: nf
 leaf-unit: section
 style-scope: global
-last-gate-passed: S6 accepted
-next-action: pre-draft gate S7
-constraints-version: 6
-units-accepted: 6/60
+last-gate-passed: S7 accepted
+next-action: pre-draft gate S8
+constraints-version: 7
+units-accepted: 7/60
